@@ -1,14 +1,13 @@
-![image](https://github.com/arbitrarily/arbitrarily/assets/899183/8932095c-c7fc-4033-bfc6-2b0081ceb8bb)
+```
 
-<h1 align="center">👋, I'm Marko Bajlovic</h1>
-<h3 align="center">Multidisciplinary creative and full-stack developer</h3>
-
-<br />
-
-<h3 align="center">Connect</h3>
-<p align="center">
-  <a href="https://twitter.com/desmosthenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/twitter.svg" alt="desmosthenes" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/markobajlovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/linkedin.svg" alt="markobajlovic" height="30" width="40" /></a>
-  <a href="https://instagram.com/markobajlovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/insta.svg" alt="markobajlovic" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@desmosthenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/yt.svg" alt="desmosthenes" height="30" width="40" /></a>
-</p>
+                        88           88                                               88  88
+                        88           ""    ,d                                         ""  88
+                        88                 88                                             88
+,adPPYYba,  8b,dPPYba,  88,dPPYba,   88  MM88MMM  8b,dPPYba,  ,adPPYYba,  8b,dPPYba,  88  88  8b       d8
+""     `Y8  88P'   "Y8  88P'    "8a  88    88     88P'   "Y8  ""     `Y8  88P'   "Y8  88  88  `8b     d8'
+,adPPPPP88  88          88       d8  88    88     88          ,adPPPPP88  88          88  88   `8b   d8'
+88,    ,88  88          88b,   ,a8"  88    88,    88          88,    ,88  88          88  88    `8b,d8'
+`"8bbdP"Y8  88          8Y"Ybbd8"'   88    "Y888  88          `"8bbdP"Y8  88          88  88      Y88'
+                                                                                                  d8'
+                                                                                                 d8'
+```

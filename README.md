@@ -7,8 +7,8 @@
 
 <h3 align="center">Connect</h3>
 <p align="center">
-  <a href="https://twitter.com/desmosthenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/twitter.svg" alt="desmosthenes" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/markobajlovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/linkedin.svg" alt="markobajlovic" height="30" width="40" /></a>
-  <a href="https://instagram.com/markobajlovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/insta.svg" alt="markobajlovic" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@desmosthenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/arbitrarily/arbitrarily/yt.svg" alt="desmosthenes" height="30" width="40" /></a>
+  <a href="https://twitter.com/desmosthenes" target="blank"><img align="center" src=https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/twitter.svg" alt="desmosthenes" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/markobajlovic" target="blank"><img align="center" src=https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/linkedin.svg" alt="markobajlovic" height="30" width="40" /></a>
+  <a href="https://instagram.com/markobajlovic" target="blank"><img align="center" src=https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/insta.svg" alt="markobajlovic" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@desmosthenes" target="blank"><img align="center" src=https://raw.githubusercontent.com/arbitrarily/arbitrarily/master/yt.svg" alt="desmosthenes" height="30" width="40" /></a>
 </p>

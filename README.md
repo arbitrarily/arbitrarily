@@ -12,4 +12,4 @@
                                                                                           ░░░░░░
 ```
 > [!NOTE]
-> [startyparty.dev](https://startyparty.dev) The start of it all. startyparty is a dynamic start page extension for your browser, incorporating the latest articles, media, tech, games, features and content.
+> [startyparty.dev](https://startyparty.dev) The start of it all. Startyparty is an innovative start page for your browser that features the latest articles, media, technology, games, and engaging content.

@@ -14,6 +14,6 @@
 > [!NOTE]
 I've moved off Github largely, links below.
 
-> [GitLab](https://gitlab.com/arbitrarily) 
-> [Tangled](https://tangled.org/marko.tech)
-> [Codeberg](https://codeberg.org/arbitrarily) 
+- [GitLab](https://gitlab.com/arbitrarily) 
+- [Tangled](https://tangled.org/marko.tech)
+- [Codeberg](https://codeberg.org/arbitrarily) 

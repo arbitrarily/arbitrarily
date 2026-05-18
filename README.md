@@ -12,4 +12,8 @@
                                                                                           ░░░░░░
 ```
 > [!NOTE]
-> [GitLab](https://gitlab.com/arbitrarily) I've moved over to Gitlab.
+I've moved off Github largely, links below.
+
+> [GitLab](https://gitlab.com/arbitrarily) 
+> [Tangled](https://tangled.org/marko.tech)
+> [Codeberg](https://codeberg.org/arbitrarily) 

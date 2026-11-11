@@ -1,5 +1,5 @@
 > [!NOTE]
-I've moved off Github permanently, links below.
+I've migrated off Github permanently; links below. Previous repos were removed prior to Microsoft's AI changes.
 
 - [GitLab](https://gitlab.com/arbitrarily) 
 - [Tangled](https://tangled.org/marko.tech)

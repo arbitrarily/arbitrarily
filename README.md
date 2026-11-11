@@ -1,4 +1,3 @@
-                                                                                  ░░░░░░
 > [!NOTE]
 I've moved off Github permanently, links below.
 
